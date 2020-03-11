@@ -1,2 +1,1 @@
-1. Complete Ruby 
-2. hello
+First test repo on the Complete Ruby on Rails course
